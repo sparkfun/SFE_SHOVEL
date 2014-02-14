@@ -9,7 +9,7 @@ spork(foon), ladies and gentlemen! It also has a serrated knife, a bottle cap op
 sturdy titanium body. Here's the best part: it's open-sourced. (No, we aren't joking.)
 
 We want to show the world that OSHW is not just circuits and PCBs. The idea of open source can be applied to just about any product.
-This S.H.O.V.E.L. is intended as more of a figurehead example of open-sourcing EVERTYTHING. In the end, we hope that open-sourcing doesn't
+This S.H.O.V.E.L. is intended as more of a figurehead example of open-sourcing EVERYTHING. In the end, we hope that open-sourcing doesn't
 stop with circuits, let alone a spork. The sky is the limit with OSHW. This you can design a better S.H.O.V.E.L.? Go for it! Download the files below and make
 your own. "No patents pending."
 
